@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatronic_red.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="candy0000" x="2955" y="0" width="669" height="771" frameX="-357" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="candy0001" x="0" y="2313" width="669" height="771" frameX="-357" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="candy0002" x="2955" y="771" width="669" height="771" frameX="-357" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="candy0003" x="2955" y="1542" width="669" height="771" frameX="-357" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="sindy0000" x="3624" y="1542" width="594" height="771" frameX="-432" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="sindy0001" x="3624" y="2313" width="594" height="771" frameX="-432" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="sindy0002" x="3624" y="0" width="594" height="771" frameX="-432" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="sindy0003" x="3624" y="771" width="594" height="771" frameX="-432" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="chester0000" x="2025" y="2313" width="678" height="705" frameX="-348" frameY="-65" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="chester0001" x="1347" y="2313" width="678" height="705" frameX="-348" frameY="-65" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="chester0002" x="669" y="2313" width="678" height="705" frameX="-348" frameY="-65" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="chester0003" x="2703" y="2313" width="678" height="705" frameX="-348" frameY="-65" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="ping0000" x="1346" y="3084" width="672" height="599" frameX="-354" frameY="-171" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="ping0001" x="674" y="3084" width="672" height="601" frameX="-354" frameY="-169" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="ping0002" x="2018" y="3084" width="672" height="599" frameX="-354" frameY="-171" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="ping0003" x="0" y="3084" width="674" height="603" frameX="-352" frameY="-167" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="blank0000" x="0" y="771" width="747" height="771" frameX="-279" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="blank0001" x="747" y="0" width="747" height="771" frameX="-279" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="blank0002" x="1494" y="0" width="747" height="771" frameX="-279" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="blank0003" x="0" y="0" width="747" height="771" frameX="-279" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="rat0000" x="671" y="1542" width="671" height="771" frameX="-355" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="rat0001" x="1342" y="1542" width="671" height="771" frameX="-355" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="rat0002" x="2013" y="1542" width="671" height="771" frameX="-355" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="rat0003" x="0" y="1542" width="671" height="771" frameX="-355" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="cat0000" x="747" y="771" width="714" height="771" frameX="-312" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="cat0001" x="2241" y="771" width="714" height="771" frameX="-312" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="cat0002" x="1461" y="771" width="714" height="771" frameX="-312" frameY="1" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="cat0003" x="2241" y="0" width="714" height="771" frameX="-312" frameY="1" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

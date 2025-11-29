@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo.png">
+	<SubTexture name="shake0000" x="317" y="0" width="309" height="399" frameX="-46" frameY="-36" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="shake0001" x="930" y="0" width="298" height="399" frameX="-51" frameY="-36" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="shake0002" x="0" y="0" width="317" height="398" frameX="-39" frameY="-37" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="shake0003" x="626" y="0" width="304" height="399" frameX="-49" frameY="-36" frameWidth="512" frameHeight="512"/>
+	<SubTexture name="shake0004" x="0" y="398" width="313" height="399" frameX="-43" frameY="-36" frameWidth="512" frameHeight="512"/>
+</TextureAtlas>
