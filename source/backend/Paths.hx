@@ -3,8 +3,7 @@ package backend;
 import flixel.graphics.frames.FlxAtlasFrames;
 import openfl.utils.Assets;
 
-class Paths
-{
+class Paths {
 	inline static public function image(key:String):String
 	{
 		return 'assets/images/$key.png';
