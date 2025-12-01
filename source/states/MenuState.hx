@@ -26,7 +26,7 @@ class MenuState extends TransitionState {
     var greenPos:Float = 0;
     var bluePos:Float = 0;
 
-    override public function create() {
+    override public function create():Void {
         super.create();
         trace('menu starting');
 
@@ -122,7 +122,7 @@ class MenuState extends TransitionState {
         });
     }
 
-    override function update(elapsed:Float):Void {
+    override public function update(elapsed:Float):Void {
         super.update(elapsed);
         animElapsed += elapsed;
 
