@@ -6,7 +6,7 @@ import flixel.FlxSprite;
 class WarningState extends TransitionState {
     var warning:FlxSprite;
 
-    override function create() {
+    override public function create():Void {
         super.create();
 
         FlxG.mouse.visible = false;
@@ -19,11 +19,11 @@ class WarningState extends TransitionState {
         FlxG.sound.cache(Paths.music('Menu'));
     }
 
-    override function update(elapsed:Float):Void {
-        super.update(elapsed);
-        
+    override public function update(elapsed:Float):Void {        
         if (FlxG.keys.justPressed.ENTER) {
             FlxG.switchState(new MenuState());
         }
+
+        super.update(elapsed);
     }
 }
