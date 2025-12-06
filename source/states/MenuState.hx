@@ -4,7 +4,6 @@ import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
-import flixel.util.FlxSave;
 import flixel.util.FlxTimer;
 
 class MenuState extends TransitionState {
@@ -31,9 +30,6 @@ class MenuState extends TransitionState {
         trace('menu starting');
 
         FlxG.mouse.visible = true;
-
-        var save:FlxSave = new FlxSave();
-        save.bind('fnac2hx');
 
         logo = new FlxSprite();
         logo.frames = Paths.getSparrowAtlas('menu/logo');
